@@ -1,7 +1,11 @@
  hi img
 eetet
 cool buddyggg
+<<<<<<< HEAD
 dsfsdfsdfdsfsd
 
 
 cooocococ
+=======
+dsfsdfsdfdsfsdsafsf ggsd gg
+>>>>>>> 600453a46ed29523419babb43134cc23975abff7
